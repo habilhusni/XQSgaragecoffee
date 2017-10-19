@@ -177,7 +177,7 @@ footer .col-footer-2 ul li a:hover{color: #0aac8e;}
 footer .col-footer-3 a{color: #999; border: 1px solid #999; padding: 5px 10px;line-height: 2.2;font-size: 14px;text-transform: capitalize;}
 footer .col-footer-3 a:hover{color:#0aac8e;}
 
-.copyright{background: #151515;color: #999;}
+.copyright{background: #151515;color: #999; text-align: center;}
 .copyright .wrapper{padding: 20px;}
 .copyright ul.quick-link{float: right;}
 .copyright ul.quick-link li {display: inline-block;margin-right: 10px;}
